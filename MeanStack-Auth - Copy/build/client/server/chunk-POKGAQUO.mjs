@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Ia as a,Ja as i,Na as r,Ra as s,U as n}from"./chunk-O6CDM36O.mjs";import"./chunk-KRLCULJA.mjs";var d=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-home"]],standalone:!0,features:[s],decls:2,vars:0,consts:[[1,"text-4xl","text-center","mt-10","font-bold"]],template:function(o,l){o&1&&(a(0,"h4",0),r(1,"Welcome To BookMYBook"),i())}});let t=e;return t})();export{d as default};
